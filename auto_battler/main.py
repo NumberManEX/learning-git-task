@@ -39,8 +39,8 @@ def take_turn(heroes, villians):
 
 
 def main():
-    hero = Character("Hero", 20, 0)
-    evil_dude = Character("Evil Dude", 15, 1)
+    hero = Character("Hero", 30, 0)
+    evil_dude = Character("Evil Dude", 17, 2)
 
     heroes = [hero]
     villians = [evil_dude]
